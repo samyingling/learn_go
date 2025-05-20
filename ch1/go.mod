@@ -1,3 +1,3 @@
-module go.mod
+module ch1
 
 go 1.24.3
